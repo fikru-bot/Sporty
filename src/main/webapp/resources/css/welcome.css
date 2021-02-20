@@ -1,0 +1,22 @@
+
+section {
+    margin: 1%;
+    padding: 8;
+}
+.block-1-item{
+	padding-left: 80px;
+	text-decoration: none;
+	
+}
+.block-1-item h3{
+	padding-left: 80px;
+	text-decoration: none;
+	font-family: cursive;
+	color: black;
+	font-size: 18px;
+}
+.col-sm-4{
+	width: 24%;
+	border-radius: 1.5rem;
+	
+}

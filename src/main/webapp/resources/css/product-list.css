@@ -1,0 +1,89 @@
+body{
+margin-top: 1px;
+
+padding: 0;
+text-align: center;
+align: center;
+background-color: #fff;
+}
+ .cat{
+ margin-top: 140px;
+ }
+ 
+input[type=text],[type=password],[type=number],[type=textarea]{
+width: 22%;
+height: 35px;
+font-family: cursive;
+margin: 10px 0;
+padding: 7px 10px;
+display: inline-block;
+border:1px solid #ccc;
+box-sizing: border-box;
+}
+ 
+button{
+background-color:#7971ea;
+width: 10.7%;
+padding: 9px 5px;
+margin:15px 0;
+cursor:pointer;
+border:none;
+color:#fff;
+margin-left: 28px;
+margin-right: -17px;
+}
+
+ 
+button:hover{
+opacity:0.8;
+}
+ 
+#fn,#ln,#ps{
+font-family: cursive;
+color: #004040;
+}
+ 
+#fn{
+	margin-left:-5px;
+}
+#ln{
+	
+	width: 6%;
+}
+#r2{
+	width: 20.5%;
+	margin-top: 12px;
+}
+
+#r3{
+	margin-top: 20px;
+	width: 22%;
+	height: 30px;
+}
+#ps{
+	margin-left:-46px;
+	
+}
+#r1{
+	height: 40px;
+}
+#g6{
+	padding: 10px;
+	
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

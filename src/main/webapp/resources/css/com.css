@@ -1,0 +1,32 @@
+
+.navbar-brand img{
+	width: 45%;
+	font-weight: bold;
+}
+.header_area .main-menu .navbar .navbar-brand{
+	padding: 0 2rem 0 5rem;
+}
+/*.header_area .main-menu .navbar{
+	padding: 1rem 0;
+}*/
+
+.header_area .main-menu .nav-item .nav-link{
+	font-family: 'Newsreader', serif;;
+	text-transform: uppercase;
+	padding: 1.2 rem;
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+}
+.header_area .main-menu .nav-item .nav-link:hover{
+	color: #4400CC;
+	font-weight: bold;
+}
+.header_area .main-menu .navbar-nav .active a{
+	color: #4400CC;
+}
+section{
+	text-align: center;
+	margin: 10%;
+	padding: 4%;
+}

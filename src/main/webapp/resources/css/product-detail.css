@@ -1,0 +1,15 @@
+body{
+	margin-top: 1px;
+	padding: 0;
+}
+ .cat{
+ margin-top: 150px;
+ }
+.col-md-6 img{
+	width: 100%;
+	margin-left: 0px;
+}
+.row{
+	display: inline-block;
+	margin-left: 450px;
+}

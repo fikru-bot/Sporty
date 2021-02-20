@@ -1,0 +1,79 @@
+body{
+margin: 1px;
+text-align: center;
+align: center;
+background-color: #fff;
+}
+ .cat{
+ margin-top: 120px;
+ }
+input[type=text],[type=password],[type=number]{
+width: 22%;
+height: 35px;
+font-family: cursive;
+margin: 8px 0;
+padding: 7px 10px;
+display: inline-block;
+border:1px solid #ccc;
+box-sizing: border-box;
+}
+ 
+button{
+background-color: #7971ea;
+width: 10.5%;
+padding: 9px 5px;
+margin:15px 0;
+cursor:pointer;
+border:none;
+color: #fff;
+margin-left: 59px;
+margin-right: -50px;
+}
+ 
+button:hover{
+opacity:0.8;
+}
+ 
+#fn,#ln,#ps,#un,#pwd,#em,#mn,#pw,#fm,#cy{
+font-family: cursive;
+color: #004040;
+}
+ 
+#fn{
+	margin-left:30px;
+}
+#ln{
+	margin-left:35px;
+}
+#un{
+	margin-left:50px;
+}
+#pwd{
+	margin-left:40px;
+}
+#em{
+	margin-left:-25px;
+}
+#mn{
+	margin-left:1px;
+}
+#pw{
+	margin-left:-40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
