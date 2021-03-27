@@ -46,7 +46,7 @@ public class GaleryConfiguration implements WebMvcConfigurer {
 		log.info("getting the hibernate dtata sources");
 		ComboPooledDataSource cpds = new ComboPooledDataSource();
 		try {
-			cpds.setDriverClass("com.mysql.jdbc.Driver");
+			cpds.setDriverClass("com.mysql.cj.jdbc.Driver");
 			cpds.setJdbcUrl(env.getProperty("jdbc.url"));
 			cpds.setUser(env.getProperty("jdbc.user"));
 			cpds.setPassword(env.getProperty("jdbc.password"));
